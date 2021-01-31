@@ -1,0 +1,13 @@
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.csprojAssemblyReference.cache
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.AssemblyInfoInputs.cache
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.AssemblyInfo.cs
+C:\Projetos\Banco\BancoPOO\bin\Debug\netcoreapp3.1\BancoPOO.exe
+C:\Projetos\Banco\BancoPOO\bin\Debug\netcoreapp3.1\BancoPOO.deps.json
+C:\Projetos\Banco\BancoPOO\bin\Debug\netcoreapp3.1\BancoPOO.runtimeconfig.json
+C:\Projetos\Banco\BancoPOO\bin\Debug\netcoreapp3.1\BancoPOO.runtimeconfig.dev.json
+C:\Projetos\Banco\BancoPOO\bin\Debug\netcoreapp3.1\BancoPOO.dll
+C:\Projetos\Banco\BancoPOO\bin\Debug\netcoreapp3.1\BancoPOO.pdb
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.dll
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.pdb
+C:\Projetos\Banco\BancoPOO\obj\Debug\netcoreapp3.1\BancoPOO.genruntimeconfig.cache
